@@ -1,0 +1,17 @@
+.textos1 {
+  font-weight: bold !important;
+  color:#FFE1D2;
+}
+
+.imagem {
+  background-image: url(https://cdn.pixabay.com/photo/2018/02/23/22/04/page-3176775_960_720.jpg);
+  background-repeat: no-repeat;
+  width: 100vh;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
